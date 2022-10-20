@@ -5,8 +5,6 @@
 
 # Empire Burger
 
-![Product Name Screen Shot][product-screenshot]
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project is a landing page of a fictional hamburger called Empire Burger, it has sections on special offers, opening hours, menu containing ingredients and prices, cards with customer feedback and the location of the establishment. I made this challenge in order to improve my skills.
